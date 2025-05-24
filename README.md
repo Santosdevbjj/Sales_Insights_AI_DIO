@@ -32,6 +32,19 @@ Utilizar o GitHub como ferramenta para compartilhamento de documentação técni
 *Quaisquer arquivos adicionais que sejam relevantes para documentar sua experiência.*
 
 
+## Os arquivos estão organizados da seguinte maneira: 
+
+
+📂 `Sales_Insights_AI_DIO/`  
+├── 📜 `README.md` *(Explicação do projeto, metodologia, prompts usados e insights gerados)*  
+├── 📂 `data/` *(Planilhas utilizadas, incluindo `cpMeganium_Sales_data.xlsx`)*  
+├── 📂 `prompts/` *(Lista dos prompts aplicados, separados por categoria de análise)*  
+├── 📂 `insights/` *(Relatórios dos resultados gerados a partir dos prompts, preferencialmente em `.md` ou `.csv`)*  
+├── 📂 `docs/` *(Qualquer material adicional explicativo sobre o processo de análise e ferramentas utilizadas)*   
+
+
+
+
 
 
 
