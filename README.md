@@ -38,7 +38,8 @@ Utilizar o GitHub como ferramenta para compartilhamento de documentação técni
 📂 `Sales_Insights_AI_DIO/`  
 ├── 📜 `README.md` *(Explicação do projeto, metodologia, prompts usados e insights gerados)*  
 ├── 📂 `data/` *( Dados da Planilha Explicados, colunas da `cpMeganium_Sales_data.xlsx`)*  
-├── 📂 `planilha Excel/` *( `cpMeganium_Sales_data.xlsx`)*
+├── 📂 `planilha Excel/` *( `cpMeganium_Sales_data.xlsx`)* 
+
 ├── 📂 `prompts/` *(Lista dos prompts aplicados, separados por categoria de análise)*  
 ├── 📂 `insights/` *(Relatórios dos resultados gerados a partir dos prompts, preferencialmente em `.md` ou `.csv`)*  
 ├── 📂 `docs/` *(Qualquer material adicional explicativo sobre o processo de análise e ferramentas utilizadas)*   
