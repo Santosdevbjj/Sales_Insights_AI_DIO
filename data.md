@@ -42,6 +42,6 @@ arquivos da seguinte maneira:
 
 
 
-![volume_vendas_pais](https://github.com/user-attachments/assets/93b9164a-0ce1-40f8-893e-5ebd19f6b886)
+
 
 
