@@ -1,6 +1,9 @@
 ## Bootcamp XP Inc. - Cloud com Inteligência Artificial. Ministrado pela DIO.
 
 
+![Screenshot_20250524-122136](https://github.com/user-attachments/assets/c76b202f-5b4a-4875-8244-b7935ead3339)
+
+
 ## Descrição do Desafio: 
 
 Este projeto tem como objetivo explorar o uso de prompts com ferramentas de inteligência artificial para analisar relatórios de vendas e extrair insights valiosos.
