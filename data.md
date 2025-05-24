@@ -28,3 +28,20 @@ A planilha possui uma aba chamada "consolidate" com os seguintes campos principa
 
 
 
+
+arquivos da seguinte maneira:
+
+📂 `Sales_Insights_AI_DIO/`  
+├── 📜 `README.md` *(Explicação do projeto, metodologia, prompts usados e insights gerados)*  
+├── 📂 `data/` *(Planilhas utilizadas, incluindo `cpMeganium_Sales_data.xlsx`)*  
+├── 📂 `prompts/` *(Lista dos prompts aplicados, separados por categoria de análise)*  
+├── 📂 `insights/` *(Relatórios dos resultados gerados a partir dos prompts, preferencialmente em `.md` ou `.csv`)*  
+├── 📂 `docs/` *(Qualquer material adicional explicativo sobre o processo de análise e ferramentas utilizadas)*   
+
+
+
+
+
+![volume_vendas_pais](https://github.com/user-attachments/assets/93b9164a-0ce1-40f8-893e-5ebd19f6b886)
+
+
